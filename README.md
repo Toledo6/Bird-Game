@@ -1,2 +1,2 @@
 # Bird-Game
-a simple little game with Cocos Creator
+a simple little game by Cocos Creator
